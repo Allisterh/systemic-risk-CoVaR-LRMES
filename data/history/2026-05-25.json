@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-27T23:16:13.422378+00:00",
+  "generated_at": "2026-05-28T23:15:28.032882+00:00",
   "methodology_version": "1.0",
   "parameters": {
     "srisk_k": 0.08,
@@ -52,7 +52,7 @@
       "covar": -0.031174,
       "delta_covar": -0.013285,
       "covar_beta": 0.406824,
-      "srisk_usd_bn": 68.356342,
+      "srisk_usd_bn": 68.356346,
       "market_cap_usd_bn": 145.448255,
       "debt_usd_bn": 1966.567283,
       "srisk_share_pct": 30.9605,
