@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-06-22T23:18:02.278914+00:00",
+  "generated_at": "2026-06-23T23:08:29.191583+00:00",
   "methodology_version": "1.0",
   "parameters": {
     "srisk_k": 0.08,
@@ -10,7 +10,7 @@
     "lrmes_market_drop": 0.4,
     "mes_tail_pct": 0.05
   },
-  "system_srisk_usd_bn": 42.3823,
+  "system_srisk_usd_bn": 42.3862,
   "bank_count": 1,
   "banks": [
     {
@@ -19,11 +19,11 @@
       "covar_index": "^FTSE",
       "mes": -0.024625,
       "lrmes": 0.570679,
-      "covar": -0.013381,
-      "delta_covar": -0.00617,
-      "covar_beta": 0.222536,
-      "srisk_usd_bn": 42.382339,
-      "market_cap_usd_bn": 29.39945,
+      "covar": -0.014446,
+      "delta_covar": -0.006617,
+      "covar_beta": 0.238672,
+      "srisk_usd_bn": 42.386215,
+      "market_cap_usd_bn": 29.389636,
       "debt_usd_bn": 674.929907,
       "srisk_share_pct": 100.0,
       "bank_id": "STAN"
