@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-07-20T22:58:56.641427+00:00",
+  "generated_at": "2026-07-21T22:54:53.076365+00:00",
   "methodology_version": "1.0",
   "parameters": {
     "srisk_k": 0.08,
@@ -10,7 +10,7 @@
     "lrmes_market_drop": 0.4,
     "mes_tail_pct": 0.05
   },
-  "system_srisk_usd_bn": 1141.486,
+  "system_srisk_usd_bn": 1141.4859,
   "bank_count": 13,
   "banks": [
     {
@@ -79,9 +79,9 @@
       "covar_index": "^STOXX50E",
       "mes": -0.029236,
       "lrmes": 0.538858,
-      "covar": -0.019332,
+      "covar": -0.019333,
       "delta_covar": -0.008147,
-      "covar_beta": 0.210616,
+      "covar_beta": 0.210617,
       "srisk_usd_bn": 114.209255,
       "market_cap_usd_bn": 64.972119,
       "debt_usd_bn": 1772.171758,
@@ -109,9 +109,9 @@
       "covar_index": "^STOXX50E",
       "mes": -0.029236,
       "lrmes": 0.538858,
-      "covar": -0.019332,
+      "covar": -0.019333,
       "delta_covar": -0.008147,
-      "covar_beta": 0.210616,
+      "covar_beta": 0.210617,
       "srisk_usd_bn": 114.209255,
       "market_cap_usd_bn": 64.972119,
       "debt_usd_bn": 1772.171758,
@@ -127,7 +127,7 @@
       "covar": -0.018016,
       "delta_covar": -0.008682,
       "covar_beta": 0.328206,
-      "srisk_usd_bn": 119.330455,
+      "srisk_usd_bn": 119.330435,
       "market_cap_usd_bn": 185.951705,
       "debt_usd_bn": 2354.746952,
       "srisk_share_pct": 10.454,
@@ -142,7 +142,7 @@
       "covar": -0.020605,
       "delta_covar": -0.010892,
       "covar_beta": 0.438889,
-      "srisk_usd_bn": 52.168813,
+      "srisk_usd_bn": 52.168826,
       "market_cap_usd_bn": 91.585623,
       "debt_usd_bn": 1243.765982,
       "srisk_share_pct": 4.5703,
