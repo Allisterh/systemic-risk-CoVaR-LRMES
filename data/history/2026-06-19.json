@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-07-28T22:56:26.584092+00:00",
+  "generated_at": "2026-07-29T22:58:54.961926+00:00",
   "methodology_version": "1.0",
   "parameters": {
     "srisk_k": 0.08,
@@ -22,7 +22,7 @@
       "covar": -0.018252,
       "delta_covar": -0.010644,
       "covar_beta": 0.31026,
-      "srisk_usd_bn": 79.762952,
+      "srisk_usd_bn": 79.762951,
       "market_cap_usd_bn": 50.715569,
       "debt_usd_bn": 1225.317285,
       "srisk_share_pct": 32.8573,
@@ -37,7 +37,7 @@
       "covar": -0.018016,
       "delta_covar": -0.008682,
       "covar_beta": 0.328206,
-      "srisk_usd_bn": 119.330455,
+      "srisk_usd_bn": 119.330435,
       "market_cap_usd_bn": 185.951705,
       "debt_usd_bn": 2354.746952,
       "srisk_share_pct": 49.1566,
